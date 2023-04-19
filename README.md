@@ -1,2 +1,2 @@
-# docker-sample-nginx
-a sample nginx container to display container name
+# docker-frontend-nginx
+nginx image to server frontend static files
